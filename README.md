@@ -1,2 +1,2 @@
-# Estrutura de dados JAVA
+# JAVA
  Alguns exercícios de Algoritimos e Estrutura de dados em JAVA 
