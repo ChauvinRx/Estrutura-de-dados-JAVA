@@ -1,2 +1,3 @@
 # JAVA
- Alguns exercícios de Algoritimos e Estrutura de dados em JAVA 
+---
+Exercícios e códigos criados por mim nos meus estudos na linguagem de programção JAVA 
