@@ -1,0 +1,11 @@
+O código é formado pela classe prinicipal "Estojo" juntamente com a classe "Caneta".
+A classe "Caneta" contém alguns atributos como suas caracteristicas
+descrevendo cor da tinta, nome da marca, espessura da ponta da caneta dentre outros...
+
+o código tem algumas ações executáveis como usar a caneta para "rabiscar" mas com algumas restrições que impedem,
+como por exemplo, se a caneta estiver com a tampa aparecerá uma mensagem dizendo que é impossivel ela rabiscar
+
+na execução do codigo tem alguns exemplos de diferentes tipos de canetas:
+com tampa e sem tampa, com tinta e sem tinta, com uma ponta ou se está sem ponta, etc
+
+sendo cada execução com uma ação ou uma resposta.
