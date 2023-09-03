@@ -2,10 +2,12 @@ O código é orientado a objetos formado pela classe prinicipal "Estojo" juntame
 A classe "Caneta" contém alguns atributos como suas caracteristicas
 descrevendo cor da tinta, nome da marca, espessura da ponta da caneta dentre outros...
 
-o código tem algumas ações executáveis como usar a caneta para "rabiscar" que pode gerar uma ação ou
+o código tem a função de usar a caneta para "rabiscar" que pode gerar uma ação ou
 aparecer uma mensagem de erro dependendo do estado atual da caneta, tendo uma mensagem diferente para cada tipo de possivel erro.
 
-na execução do codigo tem alguns exemplos de diferentes tipos de canetas:
+Foram feitos alguns exemplos de diferentes tipos de canetas:
 com ou sem tampa, com tinta e sem tinta, com uma ponta ou se está sem ponta, etc
 
-No código foram feitas algumas canetas cada uma com suas respectivas caracteristica pra cada exemplo das respostas.
+No código foram feitas algumas canetas cada uma com suas respectivas caracteristicas e com uma mensagem específica para cada exemplo
+de caneta criada.
+
